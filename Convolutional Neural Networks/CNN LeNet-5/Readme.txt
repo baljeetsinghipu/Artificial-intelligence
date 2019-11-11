@@ -1,0 +1,1 @@
+LeNet-5 CNN architecture in Pytorch using Fashion- MNIST data set
